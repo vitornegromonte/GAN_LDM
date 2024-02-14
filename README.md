@@ -1,6 +1,6 @@
 # GANs VS. Latent Diffusion Models
 
-![image]()
+![image](pcam.jpg)
 
 <!--
 [![colab](https://img.shields.io/badge/Code_in_Colab-0D1117?style=for-the-badge&logo=googlecolab)]()
